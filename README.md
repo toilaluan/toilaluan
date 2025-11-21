@@ -18,3 +18,4 @@ Currently, I'm in a career transition, dedicating my time to deepening my knowle
 Open Source Contributions:
 1. [TaylorSeer Caching -> Diffusers](https://github.com/huggingface/diffusers/pull/12648)
 2. [Verifiable Rewards via Completion Likelihood Improvement -> Prime-Environments](https://github.com/PrimeIntellect-ai/prime-environments/pull/49)
+3. [TensorFamily/SigmaJourney](https://huggingface.co/TensorFamily/SigmaJourney)
