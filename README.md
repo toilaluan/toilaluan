@@ -5,7 +5,7 @@ My favorite topics are efficient **diffusion models** and **language models**.
 
 I've spent several years working as an AI engineer. My most recent position was Head of Decentralized AI at ZenAI-Vietnam, where I led a small team. At ZenAI, I work on **decentralized ai model serving**, as a subnet of [**Bittensor**](https://bittensor.com/).
 
-After resigned from ZenAI, I once tried launching a startup focused on [**decentralized LLM accerleration**](https://web.archive.org/web/20250905120336/https://www.condenses.ai/) 🚀—though it didn't ultimately succeed.
+After resigned from ZenAI, I once tried launching a startup focused on [**decentralized LLM accerleration**](https://web.archive.org/web/20250905120336/https://www.condenses.ai/) 🚀, in a collaboration with [**Taostats Validator**](https://taostats.io/). Though it didn't ultimately succeed but I learnt a lot.
 
 <div align="center">
 <img width="419" height="521" alt="{0B7C08A6-4259-44C9-8BA5-9F3CD4DFCD87}" src="https://github.com/user-attachments/assets/c7f8ea13-86df-4c37-802e-b379037fb396" />
