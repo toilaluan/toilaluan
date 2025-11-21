@@ -1,11 +1,20 @@
-### Hi there!
+### Hi there...
+My name is **Luan**, and I'm **Vietnamese**.
 
-My name is $\color{red}{\text{Luân}}$, and I'm from $\color{red}{\text{Vietnam}}$.  
-My favorite topics are $\color{red}{\text{diffusion models}}$ and $\color{red}{\text{language models}}$.  
-I've spent several years working as an AI engineer, and I once tried launching a startup focused on $\color{red}{\text{decentralized LLM prefilling}}$ 🚀—though it didn't turn out to be a success.
+My favorite topics are efficient **diffusion models** and **language models**.
+
+I've spent several years working as an AI engineer. My most recent position was Head of Decentralized AI at ZenAI-Vietnam, where I led a small team. At ZenAI, I work on **decentralized ai model serving**, as a subnet of [**Bittensor**](https://bittensor.com/).
+
+After resigned from ZenAI, I once tried launching a startup focused on [**decentralized LLM accerleration**](https://web.archive.org/web/20250905120336/https://www.condenses.ai/) 🚀—though it didn't ultimately succeed.
 
 <div align="center">
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2fb5cd81-3eb9-4e50-81d6-c96d773b9400" />
+<img width="419" height="521" alt="{0B7C08A6-4259-44C9-8BA5-9F3CD4DFCD87}" src="https://github.com/user-attachments/assets/c7f8ea13-86df-4c37-802e-b379037fb396" />
 </div>
 
-Currently, I'm in a career gap, dedicating my time to learning more about GPU Engineering (CUDA, Triton, etc.) 💻, largely through the GPU MODE community. I'm also diving deeper into research papers 📄 for better insights into the field and contributing to open-source projects 🔓.
+I'm passionate about Machine Learning, spanning a wide range of topics from high-level algorithms to precision engineering. I use PyTorch for GPU interactions, Ray for distributed serving, and I can write simple yet efficient Triton kernels.
+
+Currently, I'm in a career transition, dedicating my time to deepening my knowledge of GPU Engineering (CUDA, Triton, etc.) 💻, primarily through the GPU MODE community. I'm also immersing myself in research papers 📄 for greater insights into the field and contributing to open-source projects 🔓.
+
+Open Source Contributions:
+1. [TaylorSeer Caching -> Diffusers](https://github.com/huggingface/diffusers/pull/12648)
+2. [Verifiable Rewards via Completion Likelihood Improvement -> Prime-Environments](https://github.com/PrimeIntellect-ai/prime-environments/pull/49)
