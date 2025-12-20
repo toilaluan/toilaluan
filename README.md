@@ -13,7 +13,7 @@ After resigned from ZenAI, I once tried launching a startup focused on [**decent
 
 I'm passionate about Machine Learning, spanning a wide range of topics from high-level algorithms to precision engineering. I use PyTorch for GPU interactions, Ray for distributed serving, and I can write simple yet efficient Triton kernels.
 
-Currently, I'm in a career transition, dedicating my time to deepening my knowledge of GPU Engineering (CUDA, Triton, etc.) 💻, primarily through the GPU MODE community. I'm also immersing myself in research papers 📄 for greater insights into the field and contributing to open-source projects 🔓.
+Currently, I'm in a career transition, dedicating my time to deepening my knowledge of theory from classic to modern generative models, relearning the math I didn't fully explore during my engineering career, immersing myself in research papers for greater insight into the field, and contributing to open-source projects.
 
 Open Source Contributions:
 1. [TaylorSeer Caching -> Diffusers](https://github.com/huggingface/diffusers/pull/12648)
